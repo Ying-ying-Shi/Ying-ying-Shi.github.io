@@ -1,7 +1,7 @@
 ---
 title:          Targeted regulation of lymphocytic ER stress response with an overall immunosuppression to alleviate allograft rejection
 date:           2021-3-12 00:01:00 +0800
-selected:       false
+selected:       true
 pub:            "Biomaterials"
 pub_last:       ' <span class="badge badge-pill badge-custom badge-dark">Journal Research</span>'
 pub_date:       "2021"

@@ -1,7 +1,7 @@
 ---
 title:          Antigen transfer from non-APCs to APCs impacts the efficacy and safety of protein-and mRNA-based vaccines
 date:           2021-10-14 00:01:00 +0800
-selected:       false
+selected:       true
 pub:            "Nano Today"
 pub_last:       ' <span class="badge badge-pill badge-custom badge-dark">Journal Research</span>'
 pub_date:       "2021"
