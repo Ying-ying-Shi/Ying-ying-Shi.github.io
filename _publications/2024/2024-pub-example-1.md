@@ -10,9 +10,9 @@ abstract: >-
   
 cover:          assets/images/covers/BMreview.png
 authors:
-  - Yingying Shi
-  - Jiapeng Mao
-  - Sijie Wang
+  - Yingying Shi#
+  - Jiapeng Mao#
+  - Sijie Wang#
   - Siyao Ma
   - Lihua Luo†
   - Jian You†

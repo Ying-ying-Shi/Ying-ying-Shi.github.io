@@ -10,8 +10,8 @@ abstract: >-
   
 cover:          assets/images/covers/Thero.jpg
 authors:
-  - Yingying Shi
-  - Yu Liu
+  - Yingying Shi#
+  - Yu Liu#
   - Jiaxin Huang
   - Zhenyu Luo
   - Xuemeng Guo

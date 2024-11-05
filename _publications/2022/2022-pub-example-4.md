@@ -10,8 +10,8 @@ abstract: >-
   
 cover:          assets/images/covers/Agtransferreview.png
 authors:
-  - Yingying Shi
-  - Yichao Lu
+  - Yingying Shi#
+  - Yichao Lu#
   - Jian You†
 links:
   Paper: https://doi.org/10.7150/thno.75904

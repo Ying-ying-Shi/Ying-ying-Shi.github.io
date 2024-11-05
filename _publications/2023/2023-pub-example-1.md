@@ -10,9 +10,9 @@ abstract: >-
   
 cover:          assets/images/covers/AFM.jpg
 authors:
-  - Yingying Shi
-  - Zeliang Lou
-  - Yu Liu
+  - Yingying Shi#
+  - Zeliang Lou#
+  - Yu Liu#
   - Jiaxin Huang
   - Yi Wang†
   - Jian You†

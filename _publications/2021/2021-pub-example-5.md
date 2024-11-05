@@ -10,8 +10,8 @@ abstract: >-
   
 cover:          assets/images/covers/StrategyDC.jpg
 authors:
-  - Yichao Lu
-  - Yingying Shi
+  - Yichao Lu#
+  - Yingying Shi#
   - Jian You†
 links:
   Paper: https://www.sciencedirect.com/science/article/pii/S0168365921006064

@@ -10,8 +10,8 @@ abstract: >-
   
 cover:          assets/images/covers/ERMito.jpg
 authors:
-  - Yingying Shi
-  - Zhenyu Luo
+  - Yingying Shi#
+  - Zhenyu Luo#
   - Jian You†
 links:
   Paper: https://wires.onlinelibrary.wiley.com/doi/abs/10.1002/wnan.1803

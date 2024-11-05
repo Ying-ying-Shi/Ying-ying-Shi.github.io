@@ -10,8 +10,8 @@ abstract: >-
   
 cover:          assets/images/covers/ERtargeting.PNG
 authors:
-  - Yingying Shi
-  - Sijie Wang
+  - Yingying Shi#
+  - Sijie Wang#
   - Jialu Wu
   - Xizhi Jin
   - Jian You†
