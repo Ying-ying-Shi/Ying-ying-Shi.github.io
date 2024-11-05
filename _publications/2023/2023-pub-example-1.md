@@ -1,7 +1,7 @@
 ---
 title:          Cell Communication-Mediated Selective Drug Delivery for Epitope-Specific Deletion of Alloreactive T Cells in Organ Transplant
 date:           2023-9-15 00:01:00 +0800
-selected:       false
+selected:       true
 pub:            "Advanced Functional Materials"
 pub_last:       ' <span class="badge badge-pill badge-custom badge-dark">Journal Research</span>'
 pub_date:       "2023"
