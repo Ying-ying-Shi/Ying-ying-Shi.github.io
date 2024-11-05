@@ -12,6 +12,15 @@
         {%- assign mark = "" -%}
     {%- endif -%}
 
+    {%- if last_char == "#" -%}
+       {%- assign key = _key | split: "#" | first -%}
+       {%- assign mark = "#" -%}
+       {%- assign has_eq_contrib = true -%}
+    {%- else -%}
+       {%- assign key = _key -%}
+       {%- assign mark = "" -%}
+    {%- endif -%}
+
     {%- assign info = site.data.authors[key] -%}
 
     {%- if info['name'] -%}
@@ -38,4 +47,8 @@
 
 {%- if has_eq_contrib == true -%}
 <mark>(† <i> corresponding author</i>)</mark>
+{%- endif -%}
+
+{%- if has_eq_contrib == true -%}
+<mark>(# <i> co-first author</i>)</mark>
 {%- endif -%}
