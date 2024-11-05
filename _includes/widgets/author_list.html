@@ -7,13 +7,6 @@
         {%- assign key = _key | split: "†" | first -%}
         {%- assign mark = "†" -%}
         {%- assign has_eq_contrib = true -%}
-    
-    {%- assign last_char = _key | slice: -1, 1%}
-    {%- if last_char == "#" -%}
-        {%- assign key = _key | split: "#" | first -%}
-        {%- assign mark = "#" -%}
-        {%- assign has_eq_contrib = true -%}
-
     {%- else -%}
         {%- assign key = _key -%}
         {%- assign mark = "" -%}
@@ -45,5 +38,4 @@
 
 {%- if has_eq_contrib == true -%}
 <mark>(† <i> corresponding author</i>)</mark>
-<mark>(# <i> co-first author</i>)</mark>
 {%- endif -%}

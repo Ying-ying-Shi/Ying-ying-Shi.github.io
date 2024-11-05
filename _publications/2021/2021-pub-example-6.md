@@ -10,8 +10,8 @@ abstract: >-
   
 cover:          assets/images/covers/ZCQ.jpg
 authors:
-  - Chunqi Zhu#
-  - Yingying Shi#
+  - Chunqi Zhu
+  - Yingying Shi
   - Qingpo Li
   - Lihua Luo
   - Xiang Li
