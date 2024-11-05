@@ -11,7 +11,7 @@ abstract: >-
 cover:          assets/images/covers/LouZL.png
 authors:
   - Zeliang Lou
-  - Yingying Shi
+  - Yingying Shi (Co-author)
   - Xuemeng Guo
   - Zhaolei Jin
   - Jiaxin Huang
