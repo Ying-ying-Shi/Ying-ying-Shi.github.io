@@ -1,5 +1,5 @@
 ---
-title:          Chronological Management of Adjuvant Effect for Optimized mRNA Vaccine Inspired by Natural Virus Infection
+title:          Chronological management of adjuvant effect for optimized mRNA vaccine inspired by natural virus infection
 date:           2024-7-8 00:01:00 +0800
 selected:       false
 pub:            "ACS nano"

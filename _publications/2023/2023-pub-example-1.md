@@ -1,5 +1,5 @@
 ---
-title:          Cell Communication-Mediated Selective Drug Delivery for Epitope-Specific Deletion of Alloreactive T Cells in Organ Transplant
+title:          Cell communication-mediated selective drug delivery for epitope-specific deletion of alloreactive T cells in organ transplant
 date:           2023-9-15 00:01:00 +0800
 selected:       true
 pub:            "Advanced Functional Materials"
