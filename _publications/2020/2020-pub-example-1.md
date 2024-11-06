@@ -8,7 +8,7 @@ pub_date:       "2021"
 abstract: >-
   In this review, recent progress in strategies of direct Endoplasmic reticulum (ER)-targeting with specific molecules or carriers are summarized. We also discuss several advances in fields of indirect ER-targeting. This work may provide a deeper understanding over the ER biology and boost the development of precise intracellular regulation, displaying broad prospects of application.
   
-cover:          assets/images/covers/ERtargeting.PNG
+cover:          assets/images/covers/ERTARGET.JPG
 authors:
   - Yingying Shi#
   - Sijie Wang#

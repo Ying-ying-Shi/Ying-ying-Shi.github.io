@@ -8,7 +8,7 @@ pub_date:       "2022"
 abstract: >-
   Here, SARS-CoV-2 receptor-binding domain mRNA delivered via lipid nanoparticle (LNP), cationic nanoemulsion (CNE) and cationic liposome (Lipo) were constructed. Results demonstrated that the structural and biochemical characteristics of nanoparticles shaped their tissue dissemination, cellular uptake and intracellular trafficking, which eventually determined the activation of antiviral humoral and cellular immunity.
   
-cover:          assets/images/covers/SA.JPG
+cover:          assets/images/covers/SApic.JPG
 authors:
   - Yingying Shi
   - Jiaxin Huang
