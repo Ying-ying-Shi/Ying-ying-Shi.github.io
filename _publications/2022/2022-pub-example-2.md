@@ -8,7 +8,7 @@ pub_date:       "2022"
 abstract: >-
   Here, Vitamin E-incorporating nanoemulsions was constructed to load and deliver Cytochrome P450 family 2 subfamily E member 1 (CYP2E1) inhibitor Clomethiazole (CMZ) to the endoplasmic reticulum (ER) of hepatocytes, which mitigated hepatic oxidative stress upon ethanol exposure, reversing alcoholic liver disease (ALD). 
   
-cover:          assets/images/covers/CYP2E1.JPG
+cover:          assets/images/covers/CYP.JPG
 authors:
   - Yingying Shi
   - Yu Liu
