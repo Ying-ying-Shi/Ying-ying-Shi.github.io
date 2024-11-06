@@ -3,7 +3,7 @@ title:          A vaccination with boosted cross presentation by ER‐targeted a
 date:           2021-1-27 00:01:00 +0800
 selected:       false
 pub:            "Advanced healthcare materials"
-pub_last:       ' <span class="badge badge-pill badge-custom badge-dark">Journal Research</span>'
+pub_last:       ' <span class="badge badge-pill badge-custom badge-dark">Journal</span><span class="badge badge-pill badge-custom badge-success">Research</span>'
 pub_date:       "2021"
 abstract: >-
   We here reveal that endoplasmic reticulum (ER)-targeted abrogation of lymphocytic ER-stress transducer IRE1ɑ induces a systemic immunosuppression to alleviate skin allograft rejection, which displays synergism with immunosuppressant tacrolimus (FK506), probably due to a cooperative regulation over inflammatory transcription factors. Further exploration identified a stage-differential dependency of IRE1ɑ in the phase transition of CD8+ T cells (T-8), which might contribute centrally to the negative immunoregulation of lymphocytic IRE1ɑ inhibition.

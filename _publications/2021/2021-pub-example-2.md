@@ -3,7 +3,7 @@ title:          Unfolded protein response in the activation-induced biological p
 date:           2021-4-23 00:01:00 +0800
 selected:       false
 pub:            "Pharmacological Research"
-pub_last:       ' <span class="badge badge-pill badge-custom badge-dark">Journal Review</span>'
+pub_last:       ' <span class="badge badge-pill badge-custom badge-dark">Journal</span><span class="badge badge-pill badge-custom badge-warning">Review</span>'
 pub_date:       "2021"
 abstract: >-
   We here review the molecular basis and immunological significance of unfolded protein response (UPR) involved in different stages of activated CD8+ T cells, and discuss potential regulation strategies of exploiting UPR to boost CD8+ T cell-mediated immune protection, which may provide guidance for the future development of T cell-based immunotherapy.

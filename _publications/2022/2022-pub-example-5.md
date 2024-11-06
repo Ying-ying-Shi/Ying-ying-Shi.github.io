@@ -3,7 +3,7 @@ title:          Subcellular delivery of lipid nanoparticles to endoplasmic retic
 date:           2022-3-27 00:01:00 +0800
 selected:       false
 pub:            "Wiley Interdisciplinary Reviews: Nanomedicine and Nanobiotechnology"
-pub_last:       ' <span class="badge badge-pill badge-custom badge-dark">Journal Review</span>'
+pub_last:      ' <span class="badge badge-pill badge-custom badge-dark">Journal</span><span class="badge badge-pill badge-custom badge-warning">Review</span>'
 pub_date:       "2022"
 abstract: >-
   Lipid-based nanoparticles mediate endoplasmic reticulum- and mitochondria- selective targeting, which mainly relies on the physicochemical properties of particles (PASSIVE targeting) or the modification of specific small molecular compounds, peptides and biomembranes (ACTIVE targeting).

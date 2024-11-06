@@ -3,7 +3,7 @@ title:          Antigen transfer from non-APCs to APCs impacts the efficacy and 
 date:           2021-10-14 00:01:00 +0800
 selected:       true
 pub:            "Nano Today"
-pub_last:       ' <span class="badge badge-pill badge-custom badge-dark">Journal Research</span>'
+pub_last:       ' <span class="badge badge-pill badge-custom badge-dark">Journal</span><span class="badge badge-pill badge-custom badge-success">Research</span>'
 pub_date:       "2021"
 abstract: >-
   We here reveal that compared with professional antigen-presenting cells (APCs), most somatic cells (non-APCs) prevailing in different vaccination sites demonstrate higher competence in mRNA-transfection and protein-uptake. And it’s ubiquitous for these non-APCs to activate specific immunoresponse by communicating antigenic information with nearby APCs, which is closely related to the efficacy and safety of vaccines.

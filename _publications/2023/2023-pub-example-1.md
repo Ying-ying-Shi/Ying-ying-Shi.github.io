@@ -3,7 +3,7 @@ title:          Cell communication-mediated selective drug delivery for epitope-
 date:           2023-9-15 00:01:00 +0800
 selected:       true
 pub:            "Advanced Functional Materials"
-pub_last:       ' <span class="badge badge-pill badge-custom badge-dark">Journal Research</span>'
+pub_last:       ' <span class="badge badge-pill badge-custom badge-dark">Journal</span><span class="badge badge-pill badge-custom badge-success">Research</span>'
 pub_date:       "2023"
 abstract: >-
   Antigen epitope-specific recognition and deletion of recipient alloreactive T cells by dendritic cells pulsed with Tacrolimus (FK506) nanoparticles via cell-cell communication benefits skin allograft outcome with high efficacy and satisfactory biosafety. 
