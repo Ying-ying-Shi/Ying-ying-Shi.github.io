@@ -1,0 +1,61 @@
+primary_name: "Yingying Shi"
+secondary_name: "施莹莹"
+navbar_name: "Yingying Shi's Home Page"
+
+positions:
+  - '<span class="no-break"><img src="assets/images/badges/ZJU_.jpg" alt="Zhejiang University" class="inline-badge"/></span> Postdoc, Zhejiang University (2023.9-now)'
+
+email: "zoe411@zju.edu.cn"
+gscholar: K80WJsIAAAAJ
+ORCID: Yingying Shi
+github: Ying-ying-Shi
+Wechat: aliee411
+orcid: 0000-0002-2712-2126
+resume: assets/cv/Resume.pdf
+
+short_bio: >-
+    Yingying Shi is currently working as a Postdoctoral Researcher in the College of Pharmaceutical Sciences, Zhejiang University, advised by Prof.<a href="https://person.zju.edu.cn/yiwang">Yi Wang</a>. </p>
+    She received her Bachelor's degree with a major in Pharmacy and a minor in English from <b>East China University of Science and Technology</b>, followed by the Medical Doctor (M.D.) degree in Pharmacy from <b>Zhejiang University</b>, under the supervision of Prof.<a href="https://person.zju.edu.cn/jyou">You Jian</a>. </p>
+    Yingying Shi's research mainly focuses on the construction of drug delivery systems and its application in immune regulation and disease treatment. She has published over <b>30</b> academic papers, including <b>15</b> SCI papers in <i>Science Advances</i>, <i>Signal Transduction and Targeted Therapy</i>, <i>Advanced Functional Materials</i>, <i>ACS Nano</i>, <i>Journal of Controlled Release</i>, <i>Biomaterials</i>, <i>Nano Today</i>, <i>Advanced Healthcare Materials</i>, and other TOP journals <b>as the first author</b>. In addition, she has applied for <b>4</b> Chinese invention patents and <b>1</b> PCT international patent; and conducted <b>3</b> research projects as the principal investigator, including 1 from National Natural Science Foundation of China, and 2 from China Postdoctoral Science Foundation. Moreover, she also serves as a young editor for the academic journal <i>Scientific Reports</i> since 2024. </p>
+    Yingying Shi is now working on the formulation of mRNA-based drugs for anti-aging therapy and immunotherapy. </p>
+show_portrait: true
+portrait_url: assets/images/photos/profile_syy.jpg
+portrait_caption: >-
+  我是施莹莹，欢迎访问我的主页~
+
+education:
+- name: East China University of Science and Technology
+  logo: assets/images/badges/ECUST_.jpg
+  position: M.D. in Pharmaceutical Sciences
+  date: Sep. 2018 - Jul. 2023
+- name: Zhejiang University
+  logo: assets/images/badges/ZJU_.jpg
+  position: B.S. in Pharmacy (major) and B.Lit. in English (minor)
+  date: Sep. 2014 - Jul. 2018
+  
+experience:
+- name: Zhejiang University, College of Pharmaceutical Science
+  logo: assets/images/badges/ZJU_.jpg
+  position: Postdoc
+  date: Sep. 2023 - Now
+
+
+awards:
+- name: Provincial Outstanding Graduate
+  date: 2023
+- name: Postgraduate Student's Scholarship (Zhejiang University)
+  date: 2023 
+- name: National scholarship for doctoral students
+  date: 2021, 2022
+- name: Graduate of Merit/Triple A graduate (Zhejiang University)
+  date: 2021, 2022
+- name: Award of Honor for Graduate (Zhejiang University)
+  date: 2021, 2022
+
+service:
+- name: Reviewer of <a href="https://www.nature.com/srep/">Scientific Reports</a>
+
+# Feel free to replace the footer text if you would like to, but I will greatly appreciate it 
+# if you keep the link to the template so that more people can benefit from it. Thanks!
+footer_text: >-
+  Copyright © 2024 <a href="https://Ying-ying-shi.github.io/" target="_blank">Yingying Shi</a>. All Rights Reserved.
